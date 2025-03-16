@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE and editor
+.idea/
+.vscode/
+
+# Test coverage
+coverage/
