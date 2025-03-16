@@ -95,6 +95,7 @@ The system uses PostgreSQL databases, with each service having its own database:
    - GET /api/orders - Get user orders
    - GET /api/orders/:id - Get order details
 
+```
 Start Auth Service
 cd auth-service
 npm start
@@ -107,3 +108,4 @@ npm start
 Start Frontend Application
 cd client
 npm start
+```
